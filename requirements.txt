@@ -1,0 +1,4 @@
+numpy~=1.21.4
+matplotlib~=3.5.1
+nbformat>=4.2.0
+kaleido
